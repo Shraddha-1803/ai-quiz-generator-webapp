@@ -31,7 +31,7 @@ Frontend:
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/ai-quiz-generator.git
+git clone https://github.com/Shraddha-1803/ai-quiz-generator.git
 
 Navigate to the folder:
 
@@ -56,4 +56,4 @@ python app.py
 
 Open in browser:
 
-http://127.0.0.1:7860
+https://ai-quiz-generator-webapp.onrender.com
