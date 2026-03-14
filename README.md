@@ -31,7 +31,7 @@ Frontend:
 
 Clone the repository:
 
-git clone https://github.com/Shraddha-1803/ai-quiz-generator.git
+git clone https://github.com/Shraddha-1803/ai-quiz-generator-webapp
 
 Navigate to the folder:
 
