@@ -1,2 +1,59 @@
 # ai-quiz-generator-webapp
-AI-powered online quiz generator built with Python that automatically creates quiz questions using artificial intelligence. The application generates questions dynamically and provides an interactive quiz experience for users.
+# AI Quiz Generator Web App
+
+An AI-powered quiz generation web application built with Flask and Groq.
+
+## Features
+
+- User registration and login
+- AI-generated quiz questions
+- Topic-based quiz creation
+- Timer-based questions
+- Progress bar during quiz
+- Instant answer feedback
+- Score calculation
+
+## Tech Stack
+
+Backend:
+- Flask
+- SQLite
+
+AI:
+- Groq API (Llama 3)
+
+Frontend:
+- HTML
+- CSS
+- Bootstrap
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/YOUR_USERNAME/ai-quiz-generator.git
+
+Navigate to the folder:
+
+cd ai-quiz-generator
+
+Create virtual environment:
+
+python -m venv venv
+
+Activate it:
+
+Windows:
+venv\Scripts\activate
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the app:
+
+python app.py
+
+Open in browser:
+
+http://127.0.0.1:7860
