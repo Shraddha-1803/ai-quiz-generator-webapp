@@ -1,4 +1,3 @@
-# ai-quiz-generator-webapp
 # AI Quiz Generator Web App
 
 An AI-powered quiz generation web application built with Flask and Groq.
