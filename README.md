@@ -53,6 +53,6 @@ Run the app:
 
 python app.py
 
-Open in browser:
+## Open in browser:
 
 https://ai-quiz-generator-webapp.onrender.com
