@@ -30,28 +30,40 @@ Frontend:
 
 Clone the repository:
 
+```
 git clone https://github.com/Shraddha-1803/ai-quiz-generator-webapp
+```
 
 Navigate to the folder:
 
+```
 cd ai-quiz-generator
+```
 
 Create virtual environment:
 
+```
 python -m venv venv
+```
 
 Activate it:
 
 Windows:
+```
 venv\Scripts\activate
+```
 
 Install dependencies:
 
+```
 pip install -r requirements.txt
+```
 
 Run the app:
 
+```
 python app.py
+```
 
 ## Open in browser:
 
