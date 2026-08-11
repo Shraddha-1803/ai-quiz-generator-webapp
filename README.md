@@ -14,9 +14,7 @@ The application provides user authentication, AI-generated quizzes, timed questi
 
 ---
 
-# 🚀 Features
-
-## 🔐 Authentication
+# 🔐 Authentication
 
 - User Registration
 - User Login
@@ -25,7 +23,7 @@ The application provides user authentication, AI-generated quizzes, timed questi
 
 ---
 
-# 🤖 AI Quiz Generation
+# 🚀 Features
 
 Generate quizzes dynamically using AI.
 
@@ -204,6 +202,7 @@ GitHub: https://github.com/Shraddha-1803
 # ⭐ Show Your Support
 
 If you like this project, please consider giving it a ⭐ on GitHub!
+
 Your support is greatly appreciated. ❤️
 
 ---
